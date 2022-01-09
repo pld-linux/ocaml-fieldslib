@@ -46,7 +46,7 @@ używających biblioteki fieldslib.
 
 %package devel
 Summary:	Generation of comparison functions from types - development part
-Summary(pl.UTF-8):	Generowanie funkcji porównujących z typów - cześć programistyczna
+Summary(pl.UTF-8):	Generowanie funkcji porównujących z typów - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
